@@ -8,7 +8,7 @@ Language Detection Library for Java
         <version>0.6</version>
     </dependency>
 
-
+// good Work
 ## Language Support
 
 ### 71 Built-in Language Profiles
